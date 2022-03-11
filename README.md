@@ -1,8 +1,8 @@
 # Wordle-2.0
 
-Jupyter Notebook based wordle game featuring all the original features but including optional extensions.
+Jupyter Notebook based WORDLE game with additional options.
 
-To start the game, open _Wordle.ipynb_ through Jupyter Notebook, then follow the instructions.
+To start the game, download the Wordle_2.0 folder and open _Wordle.ipynb_ through Jupyter Notebook, then follow the instructions.
 
 This project is part of a coding assignment for _CELL0014-Dynamic Biological Systems_.
 
